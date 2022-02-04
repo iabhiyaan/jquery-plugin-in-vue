@@ -1,7 +1,7 @@
 {
   "name": "jquery-plug-in-vue",
   "version": "1.0.0",
-  "description": "Use cases of jquery plugin in vue",
+  "description": "use cases of jquery plugin for vue",
   "main": "index.html",
   "scripts": {
     "start": "serve",
